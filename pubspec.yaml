@@ -12,6 +12,8 @@ dependencies:
 
   flutter_svg: ^2.0.0+1
   image:
+    git:
+      url: https://github.com/brendan-duncan/image.git
 
 dev_dependencies:
   flutter_test:
